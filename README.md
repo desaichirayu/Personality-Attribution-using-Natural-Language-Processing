@@ -2,8 +2,8 @@
 
 All files take one of the personalitiy types as command line argument to predict and assume that the data files required by them are in the same directory.
 
-Example usage:  1) python file-name.py trait
-                trait can take vales form 0 to 4 based on the trait for which the user wants to run model denoted by:
+Example usage:  1) python file-name.py trait <br>
+                trait can take vales form 0 to 4 based on the trait for which the user wants to run model denoted by:<br>
                 0: Extraversion
                 1: Neuroticism
                 2: Agreeableness
