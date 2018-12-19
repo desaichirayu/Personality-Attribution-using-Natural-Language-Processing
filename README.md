@@ -1,5 +1,7 @@
 # Personality-Attribution-using-Natural-Language-Processing
 
+## A project by Chirayu Desai, Akhilesh Hegde and Yuzhou Yin
+
 All files take one of the personalitiy types as command line argument to predict and assume that the data files required by them are in the same directory.
 
 Example usage:  1) python file-name.py trait <br>
